@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer | MERN | ReactJs | NextJs | ExpressJs
 ---------------------------------------------------------
 
-I'm a Full Stack Engineer having experience of around 3 years of building web apps that work across all platforms and browsers.
+I'm a Full Stack Engineer having experience of around 4 years of building web apps that work across all platforms and browsers.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
