@@ -27,9 +27,9 @@ Feel free to explore my GitHub repositories to see some of my recent projects an
 I'm always excited to meet and collaborate with like-minded developers. Feel free to reach out to me for discussions, code reviews, or just to say hi!
 
 🌍 I'm based in Pakistan <br />
-🌐 GitHub: [https://github.com/DevShaikh] <br />
+🌐 GitHub: https://github.com/DevShaikh <br />
 📧 Email: asofficial4k@gmail.com <br />
-🖥️ See my portfolio at [http://ahmed-shaikh.netlify.app] <br />
+🖥️ See my portfolio at http://ahmed-shaikh.netlify.app <br />
 ✉️ You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com) <br />
   
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
