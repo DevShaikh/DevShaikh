@@ -23,13 +23,14 @@ I'm always excited to meet and collaborate with like-minded developers. Feel fre
 
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
-🌍  I'm based in Pakistan
-🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
-✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
-⚡  I'm also a PC Gamer.
+* 🌍  I'm based in Pakistan
+* 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
+* ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
+* ⚡  I'm also a PC Gamer.
 
 
 ### Skills
+----------
 
 
 <p align="left">
@@ -59,6 +60,7 @@ Looking forward to connecting with you! Let's build some amazing software togeth
 
 
 ### Socials
+----------
 
 <p align="left"> <a href="https://discord.com/users/DEVS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/devshaikhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DevShaikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev_shaikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devshaikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14410638/ahmed-shaikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DevShaikh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/devs_cs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
