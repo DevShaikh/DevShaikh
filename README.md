@@ -5,32 +5,32 @@ Hello, fellow coders! 👋 I'm Ahmed Shaikh, a passionate Software Engineer with
 
 🔧 Tech Stack:
 
-Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript
-Backend: Node.js, Express.js, MongoDB, SQL
-Tools: Git, VS Code, Webpack, Postman
+Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript <br />
+Backend: Node.js, Express.js, MongoDB, SQL <br />
+Tools: Git, VS Code, Webpack, Postman <br />
 
 🚀 Highlights:
 
 4+ years of professional experience building full-stack web applications.<br />
-Strong problem-solving skills and an eye for detail in every line of code.
-Actively involved in open-source projects to contribute to the developer community.
-Enthusiastic about testing and ensuring code quality through continuous integration.
-Always excited to collaborate with other developers and learn from different perspectives.
+Strong problem-solving skills and an eye for detail in every line of code.<br />
+Actively involved in open-source projects to contribute to the developer community.<br />
+Enthusiastic about testing and ensuring code quality through continuous integration.<br />
+Always excited to collaborate with other developers and learn from different perspectives.<br />
 
-🌱 Learning Journey:
+🌱 Learning Journey:<br />
 I believe in the power of learning and improving every day. Currently, I'm diving deep into cloud technologies and exploring serverless architectures to make applications more scalable and cost-effective.
 
-🏆 GitHub Contributions:
+🏆 GitHub Contributions:<br />
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't forget to leave a star if you find something useful!
 
-📧 Let's Connect:
+📧 Let's Connect:<br />
 I'm always excited to meet and collaborate with like-minded developers. Feel free to reach out to me for discussions, code reviews, or just to say hi!
 
-* 🌍 I'm based in Pakistan
-* 🌐 GitHub: [https://github.com/DevShaikh]
-* 📧 Email: asofficial4k@gmail.com
-* 🖥️ See my portfolio at [http://ahmed-shaikh.netlify.app]
-* ✉️ You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
+🌍 I'm based in Pakistan <br />
+🌐 GitHub: [https://github.com/DevShaikh] <br />
+📧 Email: asofficial4k@gmail.com <br />
+🖥️ See my portfolio at [http://ahmed-shaikh.netlify.app] <br />
+✉️ You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com) <br />
   
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
