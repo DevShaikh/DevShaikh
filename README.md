@@ -23,10 +23,10 @@ I'm always excited to meet and collaborate with like-minded developers. Feel fre
 
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
-* ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
-* ⚡  I'm also a PC Gamer.
+🌍  I'm based in Pakistan
+🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
+✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
+⚡  I'm also a PC Gamer.
 
 
 ### Skills
