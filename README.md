@@ -28,11 +28,6 @@ Looking forward to connecting with you! Let's build some amazing software togeth
 ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
 ⚡  I'm also a PC Gamer.
 
-<a href="https://www.github.com/DevShaikh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DevShaikh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DevShaikh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DevShaikh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/devs_cs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/devs_cs?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
