@@ -4,11 +4,13 @@ Software Engineer | MERN Stack | 4+ Years Experience
 Hello, fellow coders! 👋 I'm Ahmed Shaikh, a passionate Software Engineer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love crafting efficient and user-friendly web applications that make a positive impact.
 
 🔧 Tech Stack:
+
 Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript
 Backend: Node.js, Express.js, MongoDB, SQL
 Tools: Git, VS Code, Webpack, Postman
 
 🚀 Highlights:
+
 4+ years of professional experience building full-stack web applications.
 Strong problem-solving skills and an eye for detail in every line of code.
 Actively involved in open-source projects to contribute to the developer community.
@@ -16,6 +18,7 @@ Enthusiastic about testing and ensuring code quality through continuous integrat
 Always excited to collaborate with other developers and learn from different perspectives.
 
 🏆 GitHub Contributions:
+
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't forget to leave a star if you find something useful!
 
 📧 Let's Connect:
