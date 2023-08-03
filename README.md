@@ -1,43 +1,38 @@
 Software Engineer | MERN Stack | 4+ Years Experience
 ---------------------------------------------------------
 
-👨‍💻 Ahmed Shaikh | Software Engineer | MERN Stack | 4+ Years Experience
-
 Hello, fellow coders! 👋 I'm Ahmed Shaikh, a passionate Software Engineer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love crafting efficient and user-friendly web applications that make a positive impact.
 
-###🔧 Tech Stack:
+🔧 Tech Stack:
 
 Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript
 Backend: Node.js, Express.js, MongoDB, SQL
 Tools: Git, VS Code, Webpack, Postman
 
-###🚀 Highlights:
+🚀 Highlights:
 
-4+ years of professional experience building full-stack web applications.
+4+ years of professional experience building full-stack web applications.<br />
 Strong problem-solving skills and an eye for detail in every line of code.
 Actively involved in open-source projects to contribute to the developer community.
 Enthusiastic about testing and ensuring code quality through continuous integration.
 Always excited to collaborate with other developers and learn from different perspectives.
 
-### 🌱 Learning Journey:
+🌱 Learning Journey:
 I believe in the power of learning and improving every day. Currently, I'm diving deep into cloud technologies and exploring serverless architectures to make applications more scalable and cost-effective.
 
 🏆 GitHub Contributions:
 Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't forget to leave a star if you find something useful!
 
-###📧 Let's Connect:
+📧 Let's Connect:
 I'm always excited to meet and collaborate with like-minded developers. Feel free to reach out to me for discussions, code reviews, or just to say hi!
 
-🌐 GitHub: [https://github.com/DevShaikh]
-📧 Email: asofficial4k@gmail.com
-
-Looking forward to connecting with you! Let's build some amazing software together! 🚀
-
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
-* ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
-* ⚡  I'm also a PC Gamer.
+* 🌍 I'm based in Pakistan
+* 🌐 GitHub: [https://github.com/DevShaikh]
+* 📧 Email: asofficial4k@gmail.com
+* 🖥️ See my portfolio at [http://ahmed-shaikh.netlify.app]
+* ✉️ You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
   
+Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
 ### Skills
 ----------
