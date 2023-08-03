@@ -1,15 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Ahmed Shaikh
-=============================================================================================================================================
-
-Full Stack Engineer | MERN | ReactJs | NextJs | ExpressJs
+Software Engineer | MERN Stack | 4+ Years Experience
 ---------------------------------------------------------
 
-I'm a Full Stack Engineer having experience of around 4 years of building web apps that work across all platforms and browsers.
+Hello, fellow coders! 👋 I'm Ahmed Shaikh, a passionate Software Engineer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love crafting efficient and user-friendly web applications that make a positive impact.
+
+🔧 Tech Stack:
+Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript
+Backend: Node.js, Express.js, MongoDB, SQL
+Tools: Git, VS Code, Webpack, Postman
+
+🚀 Highlights:
+4+ years of professional experience building full-stack web applications.
+Strong problem-solving skills and an eye for detail in every line of code.
+Actively involved in open-source projects to contribute to the developer community.
+Enthusiastic about testing and ensuring code quality through continuous integration.
+Always excited to collaborate with other developers and learn from different perspectives.
+
+🏆 GitHub Contributions:
+Feel free to explore my GitHub repositories to see some of my recent projects and contributions. Don't forget to leave a star if you find something useful!
+
+📧 Let's Connect:
+I'm always excited to meet and collaborate with like-minded developers. Feel free to reach out to me for discussions, code reviews, or just to say hi!
+
+Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
 * ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
-* 🧠  I'm learning React Native
 * ⚡  I'm also a PC Gamer.
 
 <a href="https://www.github.com/DevShaikh" target="_blank" rel="noreferrer"><img
