@@ -23,10 +23,10 @@ I'm always excited to meet and collaborate with like-minded developers. Feel fre
 
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
 
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
-* ✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
-* ⚡  I'm also a PC Gamer.
+🌍  I'm based in Pakistan
+🖥️  See my portfolio at [AHMED SHAIKH](http://ahmed-shaikh.netlify.app)
+✉️  You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com)
+⚡  I'm also a PC Gamer.
 
 <a href="https://www.github.com/DevShaikh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DevShaikh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/DevShaikh" target="_blank" rel="noreferrer"><img
