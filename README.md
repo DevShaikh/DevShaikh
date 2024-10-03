@@ -32,7 +32,7 @@ I'm always excited to meet and collaborate with like-minded developers. Feel fre
 🌍 I'm based in Pakistan <br />
 🌐 GitHub: https://github.com/DevShaikh <br />
 📧 Email: asofficial4k@gmail.com <br />
-🖥️ See my portfolio at http://ahmed-shaikh.netlify.app <br />
+// 🖥️ See my portfolio at http://ahmed-shaikh.netlify.app <br />
 ✉️ You can contact me at [asofficial4k@gmail.com](mailto:asofficial4k@gmail.com) <br />
   
 Looking forward to connecting with you! Let's build some amazing software together! 🚀
