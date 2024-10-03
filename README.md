@@ -8,9 +8,9 @@ With a strong foundation in full-stack development principles, I have a proven t
 
 🔧 Tech Stack:
 
-Frontend: React.js, Redux, HTML, CSS, JavaScript/TypeScript <br />
-Backend: Node.js, Express.js, MongoDB, SQL <br />
-Tools: Git, VS Code, Webpack, Postman <br />
+Frontend: Next.js, React.js, Redux, Zustand, Recoil, React Query, SWR, Next-Safe-Action, Tailwind CSS, Chakra UI, Material UI, Radix UI, Headless UI, Framer Motion, SASS, HTML, CSS, JavaScript/TypeScript <br />
+Backend: Node.js, Express.js, MongoDB, Prisma, SQL <br />
+Tools and Other Technologies: Git, VS Code, Webpack, Postman, ESLint, Prettier <br />
 
 🚀 Highlights:
 
