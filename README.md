@@ -14,8 +14,8 @@ A passionate Software Engineer specializing in the MERN stack, with 4+ years of 
 
 ## 💡 About Me
 
-- 🔭 **Currently Working On:** Cloud technologies & serverless architectures to build scalable, cost-effective apps.
-- 🌱 **Learning:** Expanding skills in cloud-native solutions, DevOps, and distributed systems.
+- 🔭 **Currently Working On:** Leveling up my MERN stack with advanced React patterns, state management, and backend optimizations. Improving code quality through better testing, CI/CD, and cloud deployment practices.
+- 🌱 **Learning:** Deepening my expertise in TypeScript, modern testing frameworks (Jest, Cypress), and exploring DevOps tools to optimize development workflow and scalability.
 - 🤝 **Collaboration:** I enjoy working with cross-functional teams and participating in open source projects.
 - 🧠 **Mindset:** Lifelong learner, focused on code quality, testing, and maintainability.
 - 🌍 **Location:** Pakistan
