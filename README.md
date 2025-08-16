@@ -18,6 +18,7 @@ A passionate Software Engineer specializing in the MERN stack, with 4+ years of 
 - 🌱 **Learning:** Deepening my expertise in TypeScript, modern testing frameworks (Jest, Cypress), and exploring DevOps tools to optimize development workflow and scalability.
 - 🤝 **Collaboration:** I enjoy working with cross-functional teams and participating in open source projects.
 - 🧠 **Mindset:** Lifelong learner, focused on code quality, testing, and maintainability.
+- 🎮 **Gamer:** Passionate about gaming and always eager to connect with fellow gamers in the dev community.
 - 🌍 **Location:** Pakistan
 
 ---
