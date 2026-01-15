@@ -3,12 +3,12 @@
 </p>
 
 # Ahmed Shaikh | Software Engineer 🚀
-**MERN Stack Specialist | 4+ Years of Experience | Open Source Enthusiast**
+**MERN Stack Specialist | 5+ Years of Experience | Open Source Enthusiast**
 
 ---
 
 Hi, I'm Ahmed Shaikh! 👋  
-A passionate Software Engineer specializing in the MERN stack, with 4+ years of experience designing and building scalable web applications. I thrive in collaborative environments and am committed to continuous learning, open source, and delivering solutions that delight users and drive business growth.
+A passionate Software Engineer specializing in the MERN stack, with 5+ years of experience designing and building scalable web applications. I thrive in collaborative environments and am committed to continuous learning, open source, and delivering solutions that delight users and drive business growth.
 
 ---
 
@@ -45,7 +45,7 @@ A passionate Software Engineer specializing in the MERN stack, with 4+ years of 
 
 ## 🌟 Highlights
 
-- 4+ years of professional experience building full-stack web applications.
+- 5+ years of professional experience building full-stack web applications.
 - Strong problem-solving skills and attention to detail.
 - Active contributor to open-source projects.
 - Advocate for code quality, testing, and continuous integration.
