@@ -17,7 +17,7 @@ I'm comfortable owning entire product modules end-to-end — from database archi
 
 ## 💡 About Me
 
-- 🔭 **Currently Working On:** AI-integrated SaaS products — LLM integration, real-time features, subscription billing, and complex data pipelines
+- 🔭 **Currently:** Open to full-stack / backend opportunities — most recently shipped production LLM integrations, real-time systems, and billing pipelines at Quantum Skye Technologies
 - 🤖 **AI/LLM:** Hands-on with Anthropic Claude API — prompt engineering, structured JSON outputs, token optimization, and streaming
 - ⚡ **Real-Time:** Built production features with Socket.io across multiple platforms
 - 💳 **Payments:** Stripe billing, subscription management, credit systems, and webhook handling in production
