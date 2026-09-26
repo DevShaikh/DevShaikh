@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed+Shaikh+-+Software+Engineer;Full-Stack+Software+Engineer;4%2B+Years+Building+Production+SaaS+Platforms;Let's+build+something+great!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Ahmed Shaikh | Full-Stack Software Engineer | Next.js, Node.js, MongoDB, TypeScript</h1>
+<h1 align="center">Full-Stack Software Engineer | Next.js, Node.js, MongoDB, TypeScript</h1>
 <p align="center"><strong>Full-Stack Engineer · Next.js & Node.js · SaaS Products · API Design</strong></p>
 
 ---
