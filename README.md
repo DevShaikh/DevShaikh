@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed+Shaikh+-+Software+Engineer;Full-Stack+%26+AI+Integration+Specialist;4%2B+Years+Building+Production+Products;Let's+build+something+great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ahmed+Shaikh+-+Software+Engineer;Full-Stack+Software+Engineer;4%2B+Years+Building+Production+SaaS+Platforms;Let's+build+something+great!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Ahmed Shaikh | Software Engineer 🚀</h1>
-<p align="center"><strong>Full-Stack Engineer · AI/LLM Integration · SaaS Products · API Design</strong></p>
+<h1 align="center">Ahmed Shaikh | Full-Stack Software Engineer | Next.js, Node.js, MongoDB, TypeScript</h1>
+<p align="center"><strong>Full-Stack Engineer · Next.js & Node.js · SaaS Products · API Design</strong></p>
 
 ---
 
@@ -29,10 +29,10 @@ I'm comfortable owning entire product modules end-to-end — from database archi
 
 | Area | Technologies |
 |---|---|
-| **AI & LLM** | Anthropic Claude API, Prompt Engineering, Structured Outputs, Token Optimization, SSE Streaming |
 | **Frontend** | Next.js (13/14/15), React, TypeScript, Zustand, React Query, Recharts, NextAuth, Tailwind CSS, Radix UI, Framer Motion |
 | **Backend** | Node.js, Express.js, Prisma ORM, Socket.io, Passport.js, JWT, node-cron, Nodemailer |
 | **Database** | MongoDB, Mongoose, Prisma, Firebase |
+| **AI & LLM** | Anthropic Claude API, Prompt Engineering, Structured Outputs, Token Optimization, SSE Streaming |
 | **Integrations** | Stripe, Google OAuth, Anthropic Claude API |
 | **DevOps** | Vercel, Heroku, Git, GitHub |
 
